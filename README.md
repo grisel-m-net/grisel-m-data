@@ -1,25 +1,21 @@
 
 # Hi, I'm Grisel ✨
 
-**IT & Data Professional based in Houston, TX**
+**IT Professional based in Houston, TX**
 
 Analyst transitioning into Network Engineering with a focus on infrastructure, connectivity, and systems reliability.
 
-CompTIA A+ certified | CompTIA Network+ (in progress) | CompTIA Security+ (soon)
+CompTIA A+ certified | CompTIA Network+ certified | CompTIA Security+ (soon) | CCNA (soon)
 
 ________________________
 
 ### 🔧 Skills
 
-**Networking:** TCP/IP, DNS, DHCP, VLANs, Subnetting, Network Troubleshooting, Network+
-
-**Systems:** PostgreSQL, Linux, Windows, MacOS, iOS — configuration, diagnostics, and support
-
-**Cloud:** AWS (Cloud Practitioner), Cloud fundamentals, cloud security concepts
-
-**Languages & Scripting:** SQL, Python (automation & IT scripting), Bash
-
-**Tools:** Jira, Excel, Tableau, Wireshark, Cisco Packet Tracer, Salesforce CRM, SharePoint, Microsoft 365, Google Workspace
+**Protocols & Standards**: TCP/IP, DNS, DHCP, IPv4/IPv6 Subnetting, VLANs, Routing (Dynamic/Static), Ethernet Standards (Cat6/Fiber).
+**Tools & Analysis**: Wireshark, Nmap, Cisco Packet Tracer, Powershell, CLI Configuration, Active Directory.
+**Security**: ACLs, VPNs, Firewalls, AAA, Network Hardening, Cloud Security (Security+ In Progress).
+**OS & Programming**: SQL, Python, Linux, Bash, Windows/macOS 
+**Enterprise Software**: Salesforce CRM, Jira, ZenDesk, Power BI, Tableau, Microsoft 365, Google Workspace
 
 ________________________
 
@@ -27,17 +23,16 @@ ________________________
 
 | Project | Description | Tools |
 |---|---|---|
-| ✅ SQL + Tableau | Credit Card Dashboard 
-| 🔜 Network Topology Lab | Simulated enterprise network with VLANs, DHCP, and DNS | Cisco Packet Tracer 
-| 🔜 Linux Networking Scripts | Bash scripts for ping sweeps, port checks, and host parsing | Linux / Bash 
-
-*Projects in progress*
+| ✅ Credit Card Dashboard | Analyzed credit card fraud patterns across the Western U.S using SQL and Tableau. 
+| 🔜 Network Topology Lab | Simulated enterprise network with VLANs, DHCP, and DNS using Cisco Packet Tracer 
+| 🔜 Network Monitoring | Deploy an enterprise-grade monitoring solution using Zabbix and SNMP to provide real-time visibility.
+| 🔜 Technical Documentation | Developed a Standard Operating Procedure (SOP) for enterprise network troubleshooting and firewall configuration.
 
 ________________________
 
 ### 🎓 Education & Certifications
 
-**B.S. Information Technology** — Western Governors University *(in progress, 2026)*
+**B.S. Information Technology** — Western Governors University *(In Progress, Summer 2026)*
 
 ________________________
 
