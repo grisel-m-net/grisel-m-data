@@ -28,9 +28,9 @@ ________________________
 
 ### 🗂️ Projects
 
-| Project | Description | Tools |
+| Project | Description | 
 |---|---|---|
-| ✅ Credit Card Dashboard | Analyzed credit card fraud patterns across the Western U.S using SQL and Tableau. 
+| ✅ Tableau Credit Card Dashboard | Analyzed credit card fraud patterns across the Western U.S using SQL and Tableau. 
 | 🔜 Network Topology Lab | Simulated enterprise network with VLANs, DHCP, and DNS using Cisco Packet Tracer 
 | 🔜 Network Monitoring | Deploy an enterprise-grade monitoring solution using Zabbix and SNMP to provide real-time visibility.
 | 🔜 Technical Documentation | Developed a Standard Operating Procedure (SOP) for enterprise network troubleshooting and firewall configuration.
