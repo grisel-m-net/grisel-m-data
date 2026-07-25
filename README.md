@@ -15,7 +15,7 @@ ________________________
 | Project | Description |
 | :--- | :--- |
 | ✅ **Tableau Credit Card Dashboard** | Analyzed credit card fraud patterns across the Western U.S. using SQL and Tableau. [Tableau  Link](https://public.tableau.com/app/profile/grisel.martinez2185/viz/CreditCardFraudDetectionDashboard_17628935448970/CCFDashboard)|
-| ✅ **Operating Systems & Active Directory Home Lab** | Hands-on lab demonstrating Windows Server DC setup, Active Directory user/group management, and Group Policy configuration.|
+| ✅ **Operating Systems & Active Directory Home Lab** | Hands-on lab demonstrating Windows Server DC setup, Active Directory user/group management, and Group Policy configuration. [Project Link](https://github.com/grisel-m-net/os-active-directory-portfolio)|
 ________________________
 
 ### 🎓 Education & Certifications
