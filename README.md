@@ -23,7 +23,7 @@ ________________________
 
 **B.S. Information Technology** — Western Governors University *(In Progress, 2026)*
 
-- CompTIA A+ / Network+ / Security+
+- CompTIA A+ / Network+ / Security+ ***[Certified]***
 - LPI Linux Essentials ***[In Progress]***
 - AWS Certified Cloud Practitioner ***[In Progress]***
 
