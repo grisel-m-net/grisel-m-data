@@ -21,7 +21,7 @@ ________________________
 
 ### 🎓 Education & Certifications
 
-**B.S. Information Technology** — Western Governors University *(In Progress, 2026)*
+**B.S. Information Technology** — Western Governors University *(In Progress, Fall 2026)*
 
 - CompTIA A+ / Network+ / Security+ ***[Certified]***
 - LPI Linux Essentials ***[In Progress]***
