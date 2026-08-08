@@ -11,7 +11,8 @@ ________________________
 | 🔄 **Python Log Analyzer [In Progress]** | Parsing and categorizing system logs using Python and regex to surface recurring error patterns for faster triage.|
 ________________________
 
-**🎓 Western Governors University - B.S. in Information Technology (Fall 2026)**
+<h4 align="center"> 🎓 Western Governors University - B.S. in Information Technology (Fall 2026) </h4>
+
 ________________________
 
 <div data-importer="techs" align="center">
