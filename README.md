@@ -1,4 +1,4 @@
-![Logo](https://github.com/grisel-m-net/grisel-m-net/blob/main/github-header-banner.png)
+
 
 ________________________
 
