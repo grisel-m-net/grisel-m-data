@@ -1,6 +1,4 @@
-<h1 align="center"> Hi, I'm Grisel ✨</h1>
-
-<h3 align="center"> IT Professional based in Houston, TX </h3>
+![Logo](https://github.com/grisel-m-net/grisel-m-net/blob/main/github-header-banner.png)
 
 ________________________
 
