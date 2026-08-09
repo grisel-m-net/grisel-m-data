@@ -1,6 +1,17 @@
 ![Logo](https://github.com/grisel-m-net/grisel-m-net/blob/main/github-header-banner-UP.png)
-
 ________________________
+
+<h3 align="center">Interested in all things technology, network, and cloud. ☁️ </h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:gri.martinez@yahoo.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/grisel-m-oz/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 | Projects | Description |
 | :--- | :--- |
@@ -40,5 +51,4 @@ ________________________
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
