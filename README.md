@@ -6,7 +6,7 @@ ________________________
 | :--- | :--- |
 | 📊 [Tableau Credit Card Dashboard](https://public.tableau.com/app/profile/grisel.martinez2185/viz/CreditCardFraudDetectionDashboard_17628935448970/CCFDashboard)| Analyzed credit card fraud patterns across the Western U.S. using SQL and Tableau.|
 | 🛠️ [Active Directory Infrastructure Lab](https://github.com/grisel-m-net/os-active-directory-portfolio) | Full-stack infrastructure: network topology design (Cisco Packet Tracer), Windows Server Active Directory DC promotion, user/group management, organizational units, and Group Policy. |
-| 🔄 **Python Log Analyzer [In Progress]** | Parsing and categorizing system logs using Python and regex to surface recurring error patterns for faster triage.|
+| 🐍 **Python Log Analyzer [In Progress]** | Parsing and categorizing system logs using Python and regex to surface recurring error patterns for faster triage.|
 ________________________
 
 <h4 align="center"> 🎓 Western Governors University - B.S. in Information Technology (Fall 2026) </h4>
