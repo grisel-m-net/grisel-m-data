@@ -1,7 +1,7 @@
 ![Logo](https://github.com/grisel-m-net/grisel-m-net/blob/main/github-header-banner-UP.png)
 ________________________
 
-<h3 align="center">Interested in all things technology, network, and cloud. ☁️ </h3>
+<h3 align="center">Interested in all things technology, network, AI and cloud. ☁️ </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,10 +44,6 @@ ________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
